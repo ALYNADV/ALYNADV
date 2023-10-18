@@ -1,16 +1,20 @@
-### Hi there 👋
+ Hello there 👋
 
-<!--
-**ALYNADV/ALYNADV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
-Here are some ideas to get you started:
+Hi guys, I'm **Alyn** (17 y.o) a developer from <img src="https://discord.com/assets/9d3c3d0c6d823bdf4f3fb73d27f8826e.svg" width="12" /> **Romania**. Contact me if you have same interesting or some questions!
+- 🔭 I’m currently working on Multi SA - Multiplayer Client for GTA: San Andreas (Mobile)
+- 💬 Ask me about anything.
+- 📫 How to reach me: Discord - mr.alyn
+- 😄 Pronouns: He/Him.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻Languages
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
+</div>
+
+## 💻 Connect with me
+[![Discord](https://img.shields.io/badge/-ztz-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/984099644063756308)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/sa-mp-mobile-899345469111664710)

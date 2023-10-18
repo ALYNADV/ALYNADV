@@ -5,7 +5,6 @@
 Hi guys, I'm **Alyn** (17 y.o) a developer from <img src="https://discord.com/assets/9d3c3d0c6d823bdf4f3fb73d27f8826e.svg" width="12" /> **Romania**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on Multi SA - Multiplayer Client for GTA: San Andreas (Mobile)
 - 💬 Ask me about anything.
-- 📫 How to reach me: Discord - mr.alyn
 - 😄 Pronouns: He/Him.
 
 ## 🧑‍💻Languages
@@ -16,5 +15,5 @@ Hi guys, I'm **Alyn** (17 y.o) a developer from <img src="https://discord.com/as
 </div>
 
 ## 💻 Connect with me
-[![Discord](https://img.shields.io/badge/-ztz-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/984099644063756308)
+[![Discord](https://img.shields.io/badge/-mr.alyn-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/984099644063756308)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/sa-mp-mobile-899345469111664710)

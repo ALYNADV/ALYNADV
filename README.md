@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
 Hi guys, I'm **Alyn** (17 y.o) a developer from <img src="https://discord.com/assets/9d3c3d0c6d823bdf4f3fb73d27f8826e.svg" width="12" /> **Romania**. Contact me if you have same interesting or some questions!
-- 🔭 I’m currently working on Multi SA - Multiplayer Client for GTA: San Andreas (Mobile)
+- 🔭 I’m currently working on SA-MP Mobile client.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him.
 

@@ -15,5 +15,5 @@ Hi guys, I'm **Alyn** (17 y.o) a developer from <img src="https://discord.com/as
 </div>
 
 ## 💻 Connect with me
-[![Discord](https://img.shields.io/badge/-mr.alyn-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/796002208654819338)
+[![Discord](https://img.shields.io/badge/-poorsbye-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/910835680895201310)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://alynsampmobile.online/discord)
